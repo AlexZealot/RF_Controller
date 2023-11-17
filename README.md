@@ -10,3 +10,6 @@ In my case I use custom PCB to place components:
 6) 3 switches
 7) 2 potentiometers (10 kOhm)
 8) TP4056 + boost to 5V
+
+Used libraries:
+RF24.h by AlexGyver
